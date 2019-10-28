@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+
+  
+  <remote  name="WestCoastRomS"
+           revision="wcr-9.0"
+           fetch="https://github.com/WestCoastRomS/" />
+
+  <project path="system/settings/apps" name="AnimeWallpapers" remote="WestCoastRomS" />
+  <project path="device/google/Dank_sarnito" name="Dank_sarnito" remote="WestCoastRomS" />
+  <project path="device/vendor/google" name="vendor_google" remote="WestCoastRomS" />
+ 
+</manifest>
+
+    
+
