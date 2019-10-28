@@ -15,10 +15,11 @@
            fetch="https://github.com/WestCoastRomS/" />
 
   <project path="system/settings/apps" name="AnimeWallpapers" remote="WestCoastRomS" />
-  <project path="device/google/Dank_sarnito" name="Dank_sarnito" remote="WestCoastRomS" />
+  <project path="device/google/Dank_sarnito" name="Dank_sarnito" remote="WestCoastRomS"/> />
   <project path="device/vendor/google" name="vendor_google" remote="WestCoastRomS" />
  
 </manifest>
+
 
     
 
